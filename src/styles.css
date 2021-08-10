@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.center {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  font-family: fangsong;
+  font-size: 50px;
+  background-color: black;
+  color: white;
+}
+body {
+  background-color: black;
+  overflow: hidden;
+}
